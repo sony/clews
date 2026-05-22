@@ -12,7 +12,7 @@ Joan Serrà, R. Oguz Araz, Dmitry Bogdanov, & Yuki Mitsufuji.
 
 ### Reference and links
 
-J. Serrà, R. O. Araz, D. Bogdanov, & Y. Mitsufuji (2025). *Supervised Contrastive Learning from Weakly-Labeled Audio Segments for Musical Version Matching*. Int. Conf. on Machine Learning (ICML), pp. 53923-53939.
+J. Serrà, R. O. Araz, D. Bogdanov, & Y. Mitsufuji (2025). **Supervised Contrastive Learning from Weakly-Labeled Audio Segments for Musical Version Matching**. Int. Conf. on Machine Learning (ICML), pp. 53923-53939.
 
 [[`arxiv`](https://arxiv.org/abs/2502.16936)] [[`pmlr`](https://proceedings.mlr.press/v267/serra25a.html)] [[`checkpoints`](https://zenodo.org/records/15045900)]
 
